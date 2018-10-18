@@ -1,0 +1,7 @@
+{
+  "name": "dulceadoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
